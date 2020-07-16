@@ -12,10 +12,10 @@
 - Andyworkingholiday's Producer
 
 ### Interest
-- Embedded System
+- Embedded System & RTOS
 - Deep Learning & Machine Learning
 - Open API
-- Compose, MIDI ...
+- Composition, MIDI ...
 
 <div align=center>
 
