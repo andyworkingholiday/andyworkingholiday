@@ -7,9 +7,9 @@
   </div>
 
 ### Woobin Jin
-- Kyunghee Univ
+- Kyunghee Univ(2015~)
 - Major : Electric Enginerring 
-- Minor : Computer Science
+- #### Minor : Computer Science
 - Andyworkingholiday's Producer
 
 ### Interest
