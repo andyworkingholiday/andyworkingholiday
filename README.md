@@ -29,3 +29,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/andyworkingholiday/)](https://www.instagram.com/andyworkingholiday/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kebee95@gmail.com)](mailto:kebee95@gmail.com)
 </div>
+
+![Woobin's github stats](https://github-readme-stats.vercel.app/api?username=andyworkingholiday&show_icons=true&hide_border=true)
