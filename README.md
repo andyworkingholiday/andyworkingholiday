@@ -26,6 +26,9 @@
 ### Project
 - [AI SmartFactory Framework (ETRI)](https://github.com/andyworkingholiday/AI_Framework): 스마트팩토리 AI 프레임워크 (개발 중이라 소스코드는 공개하지 않습니다)
 - [Smart Escort Robot](https://github.com/andyworkingholiday/Smart_Escort_Robot): 한이음 공모전 요기로봇 프로젝트
+- [OpenCV with Jetson Nano](https://github.com/andyworkingholiday/JetsonNano_OpenCV): Jetson Nano의 GPU 사용하여 OpenCV 실습하기
+- [Smart Item Manager](https://github.com/andyworkingholiday/Data_Structure/tree/master/Item_Manager): 2020-1 물품 관리 프로그램 자료구조 프로젝트
+
 
 <div align=center>
 
