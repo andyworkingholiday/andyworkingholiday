@@ -23,6 +23,10 @@
 - Open API
 - Composition, MIDI ...
 
+### Project
+- [AI SmartFactory Framework (ETRI)](https://github.com/andyworkingholiday/AI_Framework): 스마트팩토리 AI 프레임워크 (개발 중이라 소스코드는 공개하지 않습니다)
+- [Smart Escort Robot] (https://github.com/andyworkingholiday/Smart_Escort_Robot): 한이음 공모전 요기로봇 프로젝트
+
 <div align=center>
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCeBauIZ5u5yn6PntNY_wkZA)](https://www.youtube.com/channel/UCeBauIZ5u5yn6PntNY_wkZA) 
