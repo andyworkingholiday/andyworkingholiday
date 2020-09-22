@@ -25,7 +25,7 @@
 
 ### Project
 - [AI SmartFactory Framework (ETRI)](https://github.com/andyworkingholiday/AI_Framework): 스마트팩토리 AI 프레임워크 (개발 중이라 소스코드는 공개하지 않습니다)
-- [Smart Escort Robot] (https://github.com/andyworkingholiday/Smart_Escort_Robot): 한이음 공모전 요기로봇 프로젝트
+- [Smart Escort Robot](https://github.com/andyworkingholiday/Smart_Escort_Robot): 한이음 공모전 요기로봇 프로젝트
 
 <div align=center>
 
