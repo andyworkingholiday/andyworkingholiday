@@ -32,6 +32,7 @@
 - [Auto-RC-Car](https://github.com/andyworkingholiday/Embedded_System/tree/master/Auto_RC_CAR_Project): 2019-2 FreeRTOS를 활용한 임베디드 시스템 자율주행 RC-CAR 프로젝트 
 - [DSP Project](https://github.com/andyworkingholiday/DSP_LAB/tree/master/DSP_FINAL_PROJECT): 2019-2 FFT를 이용한 DSP 실험 화질 개선 프로젝트
 - [Machine Learning lab](https://github.com/andyworkingholiday/DSP_LAB/tree/master/DSP_FINAL_PROJECT): 2019-2 머신러닝 개론 실습
+- [룸메이트 찾기 서비스](https://github.com/andyworkingholiday/Roommate_Service): KHLUG 
 
 
 <div align=center>
