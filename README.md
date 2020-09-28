@@ -28,7 +28,7 @@
 - [Smart Escort Robot](https://github.com/andyworkingholiday/Smart_Escort_Robot): 한이음 공모전 요기로봇 프로젝트
 - [OpenCV with Jetson Nano](https://github.com/andyworkingholiday/JetsonNano_OpenCV): Jetson Nano의 GPU 기반의 OpenCV 실습
 - [Noise Cancellation with LMS Algorithm](https://github.com/andyworkingholiday/Capstone_Project): 2020-1 노이즈 캔슬링 캡스톤 프로젝트
-- [Stop Watch Using FND Module](https://github.com/andyworkingholiday/Capstone_Project): 2020-1 IoT 소프트웨어 텀 프로젝트: Apache 웹서버 기반 라즈베리파이 초시계 
+- [Stop Watch Using FND Module](https://github.com/andyworkingholiday/IoT_Software/tree/master/IOTSW_TermProject_%EC%A7%84%EC%9A%B0%EB%B9%88(2015104124)): 2020-1 IoT 소프트웨어 텀 프로젝트: Apache 웹서버 기반 라즈베리파이 초시계 
 - [Smart Item Manager](https://github.com/andyworkingholiday/Data_Structure/tree/master/Item_Manager): 2020-1 자료구조 최종 프로젝트: 물품 관리 프로그램 
 - [Operating System Lab](https://github.com/andyworkingholiday/Operating_System): 2020-1 운영체제 Real Time Scheduling, Memory Allocation, DeadLock, Buffer Cache 실습
 - [Auto-RC-Car](https://github.com/andyworkingholiday/Embedded_System/tree/master/Auto_RC_CAR_Project): 2019-2 FreeRTOS를 활용한 임베디드 시스템 자율주행 RC-CAR 프로젝트 
