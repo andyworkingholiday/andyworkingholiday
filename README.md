@@ -9,7 +9,7 @@
 
 ### Career
 * Kyunghee Univ(2015~) 
-  * Major : Electric Enginerring 
+  * Major : Electric Engineering 
   * Minor : Computer Science
 * Andyworkingholiday's Producer(2016~)
   * [Melon](https://www.melon.com/artist/song.htm?artistId=1133944)
