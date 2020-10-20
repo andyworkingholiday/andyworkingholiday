@@ -17,6 +17,7 @@
   * [Youtube](https://www.youtube.com/channel/UCeBauIZ5u5yn6PntNY_wkZA)
 * KHLUG at KHU (2019)
 * Internship from ETRI (2020.07~08)
+* Posco AI Big Data Academy 12th
 
 ### Interest
 - Embedded System & RTOS
