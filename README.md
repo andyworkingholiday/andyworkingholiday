@@ -8,7 +8,7 @@
 
 
 ### Career
-* Kyunghee Univ(2015~) 
+* Kyunghee Univ(2015 ~ Now) 
   * Major : Electric Engineering 
   * Minor : Computer Science
 * Andyworkingholiday's Producer(2016~)
@@ -17,8 +17,8 @@
   * [Youtube](https://www.youtube.com/channel/UCeBauIZ5u5yn6PntNY_wkZA)
 * KHLUG at KHU (2019)
 * Internship from ETRI (2020.07~08)
-* Google MachineLearning BootCamp (2020.10~)
-* Posco AI Big Data Academy 12th (2020.11~)
+* Google MachineLearning BootCamp (2020.10 ~ Now)
+* Posco AI Big Data Academy 12th (2020.11 ~ Now)
 
 ### Interest
 - Embedded System & RTOS
