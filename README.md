@@ -24,7 +24,7 @@
 - Embedded System & RTOS
 - Deep Learning & Machine Learning
 - Open API
-- Composition, MIDI ...
+- Composition, MIDI
 
 ### Project
 - [AI SmartFactory Framework (ETRI)](https://github.com/andyworkingholiday/AI_Framework): 스마트팩토리 AI 프레임워크 (개발 중이라 소스코드는 공개하지 않습니다)
