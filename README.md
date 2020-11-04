@@ -5,8 +5,13 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandyworkingholiday)](https://hits.seeyoufarm.com)
   
   </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyworkingholiday&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  <div align=center>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyworkingholiday&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </div>
 
 ### Career
 * Kyunghee Univ(2015 ~ Now) 
@@ -39,7 +44,6 @@
 - [DSP Project](https://github.com/andyworkingholiday/DSP_LAB/tree/master/DSP_FINAL_PROJECT): 2019-2 FFT를 이용한 DSP 실험 화질 개선 프로젝트
 - [Machine Learning Lab](https://github.com/andyworkingholiday/Machine_Learning/tree/master/Machine_Learning): 2019-2 머신러닝 개론 실습
 - [Roommate Find Service](https://github.com/andyworkingholiday/Roommate_Service): KHLUG 해커톤 : Ruby on Rails 기반의 룸메이트 찾기 서비스 
-
 
 <div align=center>
 
