@@ -23,8 +23,9 @@
   * [Youtube](https://www.youtube.com/channel/UCeBauIZ5u5yn6PntNY_wkZA)
 * KHLUG at KHU (2019)
 * Internship from ETRI (2020.07~08)
-* Google MachineLearning BootCamp (2020.10 ~ Now)
-* Posco AI Big Data Academy 12th (2020.11 ~ Now)
+* Google MachineLearning BootCamp (2020.10 ~ 12)
+* Posco AI Big Data Academy 12th (2020.11)
+* LG Electronics H&A SW Development Internship (2020.11 ~ Now)
 
 ### Interest
 - Embedded System & RTOS
