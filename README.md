@@ -12,6 +12,8 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyworkingholiday&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
+  
+#### You can check my CV [here](https://github.com/andyworkingholiday/CV/blob/master/CV/WoobinJin_CV.pdf)
 
 ### Career
 * Kyunghee Univ(2015 ~ Now) 
