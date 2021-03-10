@@ -28,7 +28,7 @@
 * Google MachineLearning BootCamp (2020.10 ~ 12)
 * Posco AI Big Data Academy 12th (2020.11)
 * LG Electronics H&A SW Development Internship (2020.11 ~ 2021.01)
-* Hyundai Mobis IVI Application SW Developer (2021.02 ~ Now)
+* Hyundai Mobis IVI Lab Application SW Developer (2021.02 ~ Now)
 
 ### Interest
 - Embedded System & RTOS
